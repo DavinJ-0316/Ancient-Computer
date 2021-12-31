@@ -9,4 +9,4 @@ https://github.com/DavinJ-0316/AntiMechSim
 
 ##### web:
 https://github.com/DavinJ-0316/Web-AntikytheraMechnism
-with live demo: https://davinj-0316.github.io/web-demo-anti-mech/
+######## with live demo: https://davinj-0316.github.io/web-demo-anti-mech/
