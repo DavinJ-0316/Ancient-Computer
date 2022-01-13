@@ -10,3 +10,9 @@ https://github.com/DavinJ-0316/AntiMechSim
 https://github.com/DavinJ-0316/Web-AntikytheraMechnism
 ##### web demo: 
 https://davinj-0316.github.io/web-demo-anti-mech/
+
+
+
+
+https://www2.dmst.aueb.gr/dds/sw/ameso/
+http://antikythera.org/links.html
